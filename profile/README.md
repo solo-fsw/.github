@@ -8,4 +8,4 @@ The repositories in this organisation follow the naming convention `<Lab/section
 
 ## Documentation
 
-Documentation on most projects by SOLO FSW can be found on [the solo research wiki](https://researchwiki.solo.universiteitleiden.nl/xwiki/bin/view/Main/). Additional explanation about GitHub usage can be found on [this organisation's GitHub pages](https://solo-fsw-projects.github.io/).
+Documentation on most projects by SOLO FSW can be found on [the solo research wiki](https://researchwiki.solo.universiteitleiden.nl/xwiki/bin/view/Main/). Additional explanation about GitHub usage can be found on [solo-fsw-projects' GitHub pages](https://solo-fsw-projects.github.io/).
