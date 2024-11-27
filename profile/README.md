@@ -4,7 +4,7 @@ This organisation contains repositories for (mainly internal) projects done by S
 
 ## Repository naming conventions
 
-The repositories in this organisation follow the naming convention `<Lab/section/institute>-<PI/lead-researcher if applicable>-<Project name/description>-<Date/Year if applicable>`. In this convention, clauses are written using lower-case letters and numbers. Underscores are used as spaces within clauses (snake_case). Dashes are used to separate clauses.
+The repositories in this organisation should preferably use only lower-case letters and numbers, and dashes.
 
 ## Documentation
 
